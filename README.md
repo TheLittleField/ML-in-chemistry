@@ -1,2 +1,2 @@
 ## Description
-Collection of files introducing how machine learning can be used in chemistry.
+Collection of files introducing machine learning application chemistry.
